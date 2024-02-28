@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  background-color: #333333;
+  color: #fff;
+  border-radius: 20px;
+  padding: 7px;
+}
+
+h2 {
+  text-align: center;
+}
+
+ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 20px;
+}
